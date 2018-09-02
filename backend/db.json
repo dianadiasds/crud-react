@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id":1,
+      "name": "Maria",
+      "email": "maria@uol.com.br"
+    },{
+      "id":2,
+      "name": "Paulo",
+      "email": "paulo@uol.com.br"
+    }
+  ]
+}
